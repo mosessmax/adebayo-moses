@@ -4,7 +4,7 @@ Hey! Nice to see you.
 Welcome to my page!
 I'm Moses, Software Developer from  Lagos, Nigeria.
 <!--
-**adebayo-moses/Adebayo-Moses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**adebayo-moses/Adebayo-Moses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 
 
 
-**Things I code with
-React Webpack Docker github actions Google Cloud Platform TypeScript Insomnia Apollo Heroku redux ReactiveX GraphQL Sass Styled Components git NestJs angular npm html5 Brave browser Rollup d3js Prettier MongoDB Nodejs
--->
