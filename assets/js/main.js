@@ -292,11 +292,12 @@ function initMap() {
   // initialize map
   map = L.map("map").setView([lat, lon], 13);
   // set map tiles source
-  L.tileLayer("https://www.google.com/maps/place/LASU+Gate/@6.4738704,3.2023538,19.75z/data=!4m15!1m9!2m8!1sLASU!3m6!1sLASU!2sLagos!3s0x103b8b2ae68280c1:0xdc9e87a367c3d9cb!4m2!1d3.3792057!2d6.5243793!3m4!1s0x103b8699832e5937:0xf7d48f614afd9a00!8m2!3d6.4740115!4d3.2022037", {
+  L.tileLayer("https://www.openstreetmap.org/#map=19/6.45506/3.39417", {
     attribution:
       'Map data &copy; <a href="https://www.google.com/maps/place/LASU+Gate/@6.4738704,3.2023538,19.75z/data=!4m15!1m9!2m8!1sLASU!3m6!1sLASU!2sLagos!3s0x103b8b2ae68280c1:0xdc9e87a367c3d9cb!4m2!1d3.3792057!2d6.5243793!3m4!1s0x103b8699832e5937:0xf7d48f614afd9a00!8m2!3d6.4740115!4d3.2022037">OpenStreetMap</a> contributors',
     maxZoom: 18,
   }).addTo(map);
+  
   // add marker to the map
   marker = L.marker([lat, lon]).addTo(map);
   // add popup to the marker
@@ -307,6 +308,20 @@ function initMap() {
   });
 }
 
+// // Initialize and add the map
+//   // The location of Uluru
+//   const uluru = { lat: -25.344, lng: 131.036 };
+//   // The map, centered at Uluru
+//   const map = new google.maps.Map(document.getElementById("map"), {
+//     zoom: 4,
+//     center: uluru,
+//   });
+//   // The marker, positioned at Uluru
+//   const marker = new google.maps.Marker({
+//     position: uluru,
+//     map: map,
+//   });
+  
 app.gallery = {
   init: function () {
     console.log('here');
