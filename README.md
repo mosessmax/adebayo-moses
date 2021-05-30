@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Hey! Nice to see you.
 Welcome to my page!
 I'm Moses, Software Developer from  Lagos, Nigeria.
 <!--
