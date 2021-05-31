@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Javascript (VueJs)
 - 💬 Ask me about anything
-- 📫 How to reach me: https://twitter.com/mosesmax__ 
+- 📫 How to reach me: https://twitter.com/mosesmaxdev
 - ⚡ Fun fact: I'm a J.Cole Fan
 
 
