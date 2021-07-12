@@ -290,18 +290,22 @@ function initMap() {
   var lat = 44.96366;
   var lon = 19.61045;
   // initialize map
-  map = L.map("map").setView([lat, lon], 13);
+  // map = L.map("map").setView([lat, lon], 13);
+  map = L.map('map').setView([51.505, -0.09], 13);
   // set map tiles source
-  L.tileLayer("https://www.openstreetmap.org/#map=19/6.45506/3.39417", {
-    attribution:
-      'Map data &copy; <a href="https://www.google.com/maps/place/LASU+Gate/@6.4738704,3.2023538,19.75z/data=!4m15!1m9!2m8!1sLASU!3m6!1sLASU!2sLagos!3s0x103b8b2ae68280c1:0xdc9e87a367c3d9cb!4m2!1d3.3792057!2d6.5243793!3m4!1s0x103b8699832e5937:0xf7d48f614afd9a00!8m2!3d6.4740115!4d3.2022037">OpenStreetMap</a> contributors',
+  L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
     maxZoom: 18,
-  }).addTo(map);
+    id: 'mapbox/streets-v11',
+    tileSize: 512,
+    zoomOffset: -1,
+    accessToken: 'pk.eyJ1IjoibW9zZXNtYXgiLCJhIjoiY2tyMTJtZGxnMXh2bTJxcWFoMHF0eW5iZiJ9.wdvyBsNxF8RO0BcvhlAynA'
+}).addTo(map);
   
   // add marker to the map
   marker = L.marker([lat, lon]).addTo(map);
   // add popup to the marker
-  // marker.bindPopup("<b>ACME CO.</b><br />This st. 48<br />New York").openPopup();
+  marker.bindPopup("<b>Hey!.</b><br />Look at<br />me Here!").openPopup();
   setTimeout(function () {
     $(".inf-map").addClass("animated fadeInUp");
     $("#map").css("opacity", 1);
