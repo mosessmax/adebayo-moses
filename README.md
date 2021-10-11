@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - My dream: while(sleeping){money++;}
 
 
+[![Moses's github stats](https://github-readme-stats.vercel.app/api?username=adebayo-moses)](https://github.com/adebayo-moses/github-readme-stats)
