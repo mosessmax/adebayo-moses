@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: https://twitter.com/mosessmax
 - ⚡ Fun fact: I'm a J.Cole Fan
-- My dream: while(sleeping){money++;}
+- My dream: while(sleeping){coderunningperfectly++;}
 
 
 <!-- [![Moses's github stats](https://github-readme-stats.vercel.app/api?username=adebayo-moses)](https://github.com/adebayo-moses/github-readme-stats) -->
