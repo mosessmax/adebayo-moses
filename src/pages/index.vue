@@ -185,15 +185,13 @@ export default Vue.extend({
         "Nuxt.js",
         "Vue.js",
         "Tailwind CSS",
-        "Windi CSS",
+        "CSS3",
         "Node.js",
-        "TypeScript",
         "Sass",
         "Figma",
-        "Firebase",
+        "Heroku",
         "WordPress",
         "PHP",
-        "React.js",
       ],
     }
   },
@@ -216,19 +214,19 @@ export default Vue.extend({
             <h1>Self taught</h1>
             <h1>
               <SmartLink
-                href="https://www.w3schools.com/whatis/whatis_fullstack_js.asp"
+                href="https://google.com"
                 class="cursor-help border-b-2 border-blue-700 text-blue-700 dark:border-neutral-500 dark:text-neutral-500"
                 blank
-                >Full-stack</SmartLink
+                >Software</SmartLink
               >
-              web developer
+              developer
             </h1>
           </div>
 
           <p class="text-neutral-500">
-            Hi there, my name is Abdulbaki, I am from Turkey and I am a self
-            taught web developer. I build complex web apps using tools like
-            <SmartLink href="https://vuejs.org/" class="description-link" blank
+            Hi there, my name is Moses, I am from Lagos and I am a self
+            taught web developer. I build complex web apps using tools like day-to-day modern technologies.
+            <!-- <SmartLink href="https://vuejs.org/" class="description-link" blank
               >Vue.js</SmartLink
             >,
             <SmartLink href="https://nuxtjs.org/" class="description-link" blank
@@ -240,7 +238,7 @@ export default Vue.extend({
               class="description-link"
               blank
               >Windi CSS</SmartLink
-            >.
+            >. -->
           </p>
         </div>
 
