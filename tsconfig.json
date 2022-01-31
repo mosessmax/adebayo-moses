@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "target": "ES2018",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "lib": ["ESNext", "ESNext.AsyncIterable", "DOM"],
+    "esModuleInterop": true,
+    "allowJs": true,
+    "sourceMap": true,
+    "strict": true,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./*"],
+      "@/*": ["./src/*"]
+    },
+    "types": [
+      "@types/node",
+      /* Nuxt types */
+      "@nuxt/types",
+      "@nuxt/content",
+      "@nuxtjs/firebase",
+      "@nuxtjs/axios",
+      "@nuxtjs/moment",
+      "nuxt-windicss",
+      "@nuxtjs/color-mode",
+      "@nuxt/image",
+      /* Additional types */
+      "@types/prismjs"
+    ],
+    "typeRoots": ["./@types"]
+  },
+  "exclude": ["node_modules"]
+}

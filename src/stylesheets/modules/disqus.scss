@@ -1,0 +1,26 @@
+/* Tailwind Colors */
+$gray-100: rgb(243, 244, 246);
+$gray-200: rgb(229, 231, 235);
+
+$gray-700: rgb(55, 65, 81);
+$gray-900: rgb(17, 24, 39);
+
+#disqus_thread {
+  a {
+    color: $gray-900;
+
+    &:hover {
+      color: $gray-700;
+    }
+  }
+}
+
+.dark #disqus_thread {
+  a {
+    color: $gray-100;
+
+    &:hover {
+      color: $gray-200;
+    }
+  }
+}
