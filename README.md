@@ -1,3 +1,7 @@
 ### 🙏 Thanks
 
-[Nuxt.js](https://nuxtjs.org), [WindiCSS](https://github.com/windicss/windicss), [Tailwind CSS](https://github.com/tailwindcss/tailwindcss), amazing module authors and contributors of this project!
+Let's fg!
+
+i don't have a proper readme rn, but if you are seeing this, send funds, if you are unable to
+
+refer jobs my way so i can stop drinking garri.
