@@ -1,20 +1,16 @@
 {
   "name": "mosessmax-website",
-  "description": "Moses's personal website made in TypeScript, Nuxt.js and Windi/Tailwind CSS",
+  "description": "Moses's Adebayo",
   "license": "MIT",
-  "version": "5.0.0",
-  "homepage": "https://eggsy.xyz",
-  "readme": "https://github.com/eggsy/website#readme",
+  "version": "2.0.0",
+  "homepage": "https://mosessmax.com",
+  "readme": "https://github.com/adebayo-moses/adebayo-moses#readme",
   "author": {
-    "name": "Abdulbaki Dursun",
-    "email": "eggsydev@gmail.com",
-    "url": "https://eggsy.xyz"
+    "name": "Moses Adebayo",
+    "email": "mosessmax@gmail.com",
+    "url": "https://mosessmax.com"
   },
-  "bugs": {
-    "email": "eggsydev@gmail.com",
-    "url": "https://github.com/eggsy/website/issues"
-  },
-  "repository": {
+ "repository": {
     "type": "git",
     "url": "https://github.com/eggsy/website.git"
   },

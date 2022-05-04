@@ -23,11 +23,11 @@ export default Vue.extend({
       <div class="flex items-center justify-between">
         <SmartLink :href="getTargetLink" class="flex-shrink-0 h-10 w-10">
           <SmartImage
-            src="/assets/icons/icon.svg"
+            src="https://colors.dopely.top/static/dc.png"
             class="rounded-md bg-gray-100 ring-black transition-transform ring-2 ring-opacity-5 sm:transform hover:-rotate-6"
             width="100"
             height="100"
-            title="EGGSY's Website"
+            title="Moses's Website"
           />
         </SmartLink>
 

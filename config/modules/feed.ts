@@ -23,7 +23,7 @@ const Feed = () => {
 
       const hostName =
         process.env.NODE_ENV === "production"
-          ? "https://eggsy.xyz"
+          ? "https://mosessmax.com"
           : "http://localhost:3000"
 
       const postImagesPath = `${hostName}/assets/images/posts`

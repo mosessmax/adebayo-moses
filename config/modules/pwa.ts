@@ -1,7 +1,7 @@
 export default {
   manifest: {
-    name: "eggsy.xyz",
-    short_name: "eggsy.xyz",
+    name: "Moses Adebayo",
+    short_name: "mosessmax",
     theme_color: "#f56565",
     lang: "en",
   },

@@ -1,12 +1,12 @@
 import { NuxtOptionsHead } from "@nuxt/types/config/head"
 
 /* Define constants */
-const image = "https://eggsy.xyz/icon.png"
+const image = "https://colors.dopely.top/static/dc.png"
 const description =
-  "Young JavaScript developer from Turkey, interested in languages, gaming, and programming, trying to improve his JavaScript skills!"
+  "Impeccable and Quietly Confident Software Developer from the trenches, trying to improve his JavaScript skills!"
 
 const Head: NuxtOptionsHead = {
-  title: "eggsy.xyz",
+  title: "Moses Adebayo",
   meta: [
     { charset: "utf-8" },
     { name: "viewport", content: "width=device-width, initial-scale=1" },
@@ -24,17 +24,17 @@ const Head: NuxtOptionsHead = {
     {
       hid: "twitter:site",
       name: "twitter:site",
-      content: "@eggsydev",
+      content: "@mosessmax",
     },
     {
       hid: "twitter:creator",
       name: "twitter:creator",
-      content: "@eggsydev",
+      content: "@mosessmax",
     },
     {
       hid: "twitter:title",
       name: "twitter:title",
-      content: "eggsy.xyz",
+      content: "mosessmax.com",
     },
     {
       hid: "twitter:description",
@@ -55,7 +55,7 @@ const Head: NuxtOptionsHead = {
     {
       hid: "og:site_name",
       name: "og:site_name",
-      content: "eggsy.xyz",
+      content: "Moses Adebayo",
     },
     {
       hid: "og:description",
@@ -87,7 +87,7 @@ const Head: NuxtOptionsHead = {
     {
       rel: "search",
       type: "application/opensearchdescription+xml",
-      title: "EGGSY's Blog",
+      title: "Moses's Blog",
       href: "https://eggsy.xyz/opensearch.xml",
     },
   ],
