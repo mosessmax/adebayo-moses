@@ -1,3 +1,5 @@
+<div class="contra-hire-me-button" data-analyticsUserId="fc1a2583-4c0a-40fc-9ee9-91842de351d8" data-theme="light" data-username="mosessmax"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+
 app.home = {
   init: function () {
     TweenMax.to(document.querySelector(".bg"), 0.4, {
