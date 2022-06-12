@@ -1,4 +1,6 @@
-- 💬 Ask me about anything
+- 💬 Engineer extraordinary with natural healing fingers.
+- ⚡ Heavy on Vue.js/Php/WordPress
+- ⚡ Finding my way into cloud services a lot (it's really interesting.
 - 📫 How to reach me: https://twitter.com/mosessmax
 - ⚡ Fun fact: I'm a J.Cole Fan
 - Acting Professional on LinkedIn: https://linkedin.com/in/adebayo-moses
