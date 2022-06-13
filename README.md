@@ -1,7 +1,4 @@
-- 💬 Engineer extraordinary with natural healing fingers.
-- ⚡ Heavy on Vue.js/Php/WordPress
+Hi there,
+I'm Moses, I’m a quietly confident and impeccable software developer with a proven ability to maintain and enhance company software with the aim of improving operational functionality in line with business requirement, building for the web and businesses with my favorite stacks, Vue.js, PHP and WordPress
 - ⚡ Finding my way into cloud services a lot (it's really interesting.
-- 📫 How to reach me: https://twitter.com/mosessmax
-- ⚡ Fun fact: I'm a J.Cole Fan
 - Acting Professional on LinkedIn: https://linkedin.com/in/adebayo-moses
-- My dream: while(sleeping){coderunningperfectly++;}
