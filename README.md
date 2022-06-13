@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 📫 How to reach me: https://twitter.com/mosessmax
 - ⚡ Fun fact: I'm a J.Cole Fan
-- Acting Professional on LinkedIn: https://linkedin.com/in/adebayo-moses
-- My dream: while(sleeping){coderunningperfectly++;}
 
 
 # 📊GitHub Stats :
