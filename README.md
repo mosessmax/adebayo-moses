@@ -6,4 +6,13 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 
 <!--START_SECTION:waka-->
 
+```text
+JavaScript   1 hr 1 min      ████████████▓░░░░░░░░░░░░   50.41 %
+HTML         22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+Vue.js       14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+PHP          9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+XML          7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+```
+
 <!--END_SECTION:waka-->
