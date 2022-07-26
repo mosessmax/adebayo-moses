@@ -7,11 +7,10 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-HTML         16 mins         ██████████░░░░░░░░░░░░░░░   39.65 %
-Vue.js       11 mins         ███████░░░░░░░░░░░░░░░░░░   28.61 %
-JavaScript   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-Git Config   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Vue.js       11 mins         ███████████▓░░░░░░░░░░░░░   46.47 %
+JavaScript   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
+Git Config   4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 ```
 
 <!--END_SECTION:waka-->
