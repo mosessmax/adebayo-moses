@@ -7,7 +7,7 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Git Config   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
