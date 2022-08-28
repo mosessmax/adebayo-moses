@@ -7,12 +7,8 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-HTML         33 mins         ███████████████████░░░░░░   75.98 %
-Git Config   6 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
-CSS          2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
-SCSS         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+HTML   20 mins         ██████████████████████▒░░   89.12 %
+CSS    2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
 ```
 
 <!--END_SECTION:waka-->
