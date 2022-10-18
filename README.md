@@ -7,7 +7,8 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Go     1 min           ██████████████▓░░░░░░░░░░   58.10 %
+HTML   1 min           ██████████▒░░░░░░░░░░░░░░   41.90 %
 ```
 
 <!--END_SECTION:waka-->
