@@ -7,10 +7,9 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-HTML            2 mins          ███████████░░░░░░░░░░░░░░   44.30 %
-Go              1 min           ██████████▒░░░░░░░░░░░░░░   41.91 %
-JSON            0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-Other           0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+HTML            0 secs          ████████████▒░░░░░░░░░░░░   49.89 %
+JSON            0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.26 %
+Other           0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
 ```
 
 <!--END_SECTION:waka-->
