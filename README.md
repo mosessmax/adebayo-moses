@@ -7,8 +7,8 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-PHP             13 mins         ███████▓░░░░░░░░░░░░░░░░░   31.16 %
-Other           9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.11 %
+PHP             13 mins         ███████▓░░░░░░░░░░░░░░░░░   30.07 %
+Other           9 mins          █████░░░░░░░░░░░░░░░░░░░░   20.37 %
 ```
 
 <!--END_SECTION:waka-->
