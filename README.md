@@ -7,12 +7,11 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript      26 mins         ██████████▓░░░░░░░░░░░░░░   43.15 %
-PHP             8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
-Markdown        8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-JSON            6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Python          5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-Apache Config   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+JavaScript      26 mins         ███████████░░░░░░░░░░░░░░   43.52 %
+Markdown        8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.17 %
+Python          8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
+JSON            6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
+Other           5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.48 %
 ```
 
 <!--END_SECTION:waka-->
