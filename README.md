@@ -7,9 +7,9 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-HTML             1 hr 50 mins    ██████████░░░░░░░░░░░░░░░   39.53 %
-SCSS             49 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
-Other            21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 %
+HTML             1 hr 43 mins    █████████▓░░░░░░░░░░░░░░░   38.06 %
+SCSS             49 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+Other            21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
 ```
 
 <!--END_SECTION:waka-->
