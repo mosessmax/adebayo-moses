@@ -7,12 +7,12 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-PHP               1 hr 12 mins    █████████░░░░░░░░░░░░░░░░   36.37 %
-JavaScript        50 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.15 %
-SCSS              33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-HTML              33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
-Vue.js            6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-Gettext Catalog   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JavaScript        1 hr 35 mins    █████████▒░░░░░░░░░░░░░░░   37.36 %
+PHP               1 hr 12 mins    ███████░░░░░░░░░░░░░░░░░░   28.53 %
+HTML              1 hr 3 mins     ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+SCSS              21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Gettext Catalog   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+CSS               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
