@@ -7,11 +7,11 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-HTML         1 hr 43 mins    ████████▓░░░░░░░░░░░░░░░░   35.27 %
-CSS          1 hr 39 mins    ████████▒░░░░░░░░░░░░░░░░   33.80 %
-JavaScript   56 mins         █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-SCSS         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+HTML         1 hr 42 mins    ████████▓░░░░░░░░░░░░░░░░   35.08 %
+CSS          1 hr 39 mins    ████████▒░░░░░░░░░░░░░░░░   33.89 %
+JavaScript   56 mins         █████░░░░░░░░░░░░░░░░░░░░   19.48 %
+SCSS         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
