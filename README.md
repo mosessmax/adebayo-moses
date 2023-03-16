@@ -7,12 +7,12 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-HTML         1 hr 42 mins    ████████▓░░░░░░░░░░░░░░░░   35.08 %
-CSS          1 hr 39 mins    ████████▒░░░░░░░░░░░░░░░░   33.89 %
-JavaScript   56 mins         █████░░░░░░░░░░░░░░░░░░░░   19.48 %
-SCSS         27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+CSS          2 hrs 29 mins   █████████░░░░░░░░░░░░░░░░   35.53 %
+HTML         1 hr 55 mins    ███████░░░░░░░░░░░░░░░░░░   27.45 %
+JavaScript   54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
+TypeScript   54 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
+SCSS         27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+TSConfig     13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
 ```
 
 <!--END_SECTION:waka-->
