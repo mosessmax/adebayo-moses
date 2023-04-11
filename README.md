@@ -4,12 +4,12 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   3 hrs 53 mins   █████████████▓░░░░░░░░░░░   54.59 %
-HTML         1 hr 16 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.83 %
-MDX          43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-CSS          36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+JavaScript   3 hrs           █████████░░░░░░░░░░░░░░░░   35.51 %
+HTML         2 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
+MDX          1 hr 40 mins    █████░░░░░░░░░░░░░░░░░░░░   19.69 %
+CSS          57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.24 %
+Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
+Astro        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
