@@ -4,12 +4,12 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-HTML         43 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.48 %
-TypeScript   39 mins         █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-SCSS         35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
-JavaScript   28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-PHP          15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-TSConfig     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+HTML         47 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
+TypeScript   46 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.35 %
+SCSS         35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+TSConfig     10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+JSON         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
+JavaScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
 ```
 
 <!--END_SECTION:waka-->
