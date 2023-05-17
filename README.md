@@ -4,10 +4,11 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-Delphi     2 mins          █████████████████░░░░░░░░   68.58 %
-PHP        1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.11 %
-HTML       0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Delphi       2 mins          ██████████████▒░░░░░░░░░░   57.42 %
+Markdown     1 min           █████▓░░░░░░░░░░░░░░░░░░░   22.30 %
+TypeScript   0 secs          ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+HTML         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
