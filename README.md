@@ -4,9 +4,11 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     6 mins          ██████████████████████▓░░   90.05 %
-TypeScript   0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Apache Config   11 mins         █████████░░░░░░░░░░░░░░░░   35.98 %
+YAML            9 mins          ███████▓░░░░░░░░░░░░░░░░░   30.07 %
+Markdown        7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.07 %
+SCSS            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+HTML            0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 ```
 
 <!--END_SECTION:waka-->
