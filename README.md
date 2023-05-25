@@ -4,11 +4,11 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js          3 hrs 12 mins   ███████████████████▓░░░░░   78.15 %
-Apache Config   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
-YAML            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
-Markdown        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-JSON            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Vue.js          3 hrs 12 mins   ████████████████████░░░░░   80.08 %
+Apache Config   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
+YAML            9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+JSON            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+HTML            6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
 ```
 
 <!--END_SECTION:waka-->
