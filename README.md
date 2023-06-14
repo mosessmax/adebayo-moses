@@ -4,11 +4,11 @@ I am an impeccable software developer and that counts for a lot, even if i do sa
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         1 hr 1 min      ███████████████▒░░░░░░░░░   61.30 %
-JavaScript   20 mins         █████░░░░░░░░░░░░░░░░░░░░   20.45 %
-TypeScript   9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
-Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-CSS          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+HTML         1 hr 3 mins     ████████████▓░░░░░░░░░░░░   51.00 %
+JavaScript   20 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.51 %
+Other        12 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.04 %
+TypeScript   9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Text         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 %
 ```
 
 <!--END_SECTION:waka-->
