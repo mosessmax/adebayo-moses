@@ -8,7 +8,7 @@ Check my written blogs
 - https://geekdom.vercel.app
 - https://mosess.hashnode.dev
   
-I am a public-minded person because I genuinely desire to assist others in discovering their unique paths. I wish for people to find inherent worth in this content just as it is. Although there may be an abundance of spelling and grammatical errors, personal opinions, mistakes, and moments of insight where I may have been wrong – the intention of this forum is to allow for a free-flowing space to express one's thoughts, rather than a polished and final publication. -
+I am a public-minded person because I genuinely desire to assist others in discovering their unique paths. I wish for people to find inherent worth in this content just as it is. Although there may be an abundance of spelling and grammatical errors, personal opinions, mistakes, and moments of insight where I may have been wrong – the intention of my blogs is to allow for a free-flowing space to express one's thoughts, rather than a polished and final publication.
 <!--START_SECTION:waka-->
 
 ```txt
