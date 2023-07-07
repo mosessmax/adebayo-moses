@@ -12,9 +12,7 @@ I am a public-minded person because I genuinely desire to assist others in disco
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         1 min           ███████████▒░░░░░░░░░░░░░   45.21 %
-HTML         1 min           ███████░░░░░░░░░░░░░░░░░░   28.47 %
-JavaScript   1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
