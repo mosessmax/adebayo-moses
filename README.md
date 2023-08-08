@@ -12,8 +12,7 @@ I am a public-minded person because I genuinely desire to assist others in disco
 <!--START_SECTION:waka-->
 
 ```txt
-MDX    11 mins         ████████████████████████▒   97.54 %
-HTML   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
