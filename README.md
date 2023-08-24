@@ -12,11 +12,11 @@ I am a public-minded person because I genuinely desire to assist others in disco
 <!--START_SECTION:waka-->
 
 ```txt
-Python       22 mins         █████████████▓░░░░░░░░░░░   54.73 %
-Other        9 mins          ██████░░░░░░░░░░░░░░░░░░░   23.59 %
-TypeScript   7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+YAML             15 mins         ███████▒░░░░░░░░░░░░░░░░░   29.44 %
+Python           11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+TypeScript       7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.76 %
+JSON             6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
+JavaScript       5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
 ```
 
 <!--END_SECTION:waka-->
