@@ -15,11 +15,11 @@ I am a public-minded person because I genuinely desire to assist others in disco
 <!--START_SECTION:waka-->
 
 ```txt
-MDX          57 mins         ██████████▒░░░░░░░░░░░░░░   41.96 %
-HTML         46 mins         ████████▒░░░░░░░░░░░░░░░░   33.74 %
-CSS          15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-Bash         9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-TypeScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+MDX          57 mins         ██████████████░░░░░░░░░░░   55.92 %
+HTML         23 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
+Bash         9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
+TypeScript   7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+CSS          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
