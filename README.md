@@ -15,11 +15,11 @@ I am a public-minded person because I genuinely desire to assist others in disco
 <!--START_SECTION:waka-->
 
 ```txt
-HTML       1 hr 26 mins    ██████████████░░░░░░░░░░░   56.36 %
-Markdown   35 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
-MDX        20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.52 %
-JSON       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
+HTML       1 hr 26 mins    ██████████████░░░░░░░░░░░   55.43 %
+Markdown   38 mins         ██████░░░░░░░░░░░░░░░░░░░   24.33 %
+MDX        20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
+JSON       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
 ```
 
 <!--END_SECTION:waka-->
