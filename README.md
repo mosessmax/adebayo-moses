@@ -15,8 +15,7 @@ I am a public-minded person because I genuinely desire to assist others in disco
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   38 mins         ███████████████████▓░░░░░   79.10 %
-MDX        10 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+Markdown   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
