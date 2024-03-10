@@ -12,8 +12,9 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-Bash             6 mins          █████████████████████████   99.82 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Bash             8 mins          ███████████████████░░░░░░   75.36 %
+PHP              1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.15 %
+Blade Template   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
 ```
 
 <!--END_SECTION:waka-->
