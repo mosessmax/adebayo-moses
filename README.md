@@ -12,11 +12,7 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   7 mins          ██████████████████████░░░   88.09 %
-JSON         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
