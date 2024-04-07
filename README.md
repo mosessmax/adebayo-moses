@@ -12,7 +12,9 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+MDX          0 secs          ███████████░░░░░░░░░░░░░░   44.17 %
+TypeScript   0 secs          ████████░░░░░░░░░░░░░░░░░   32.46 %
+Astro        0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.37 %
 ```
 
 <!--END_SECTION:waka-->
