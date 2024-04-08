@@ -12,9 +12,11 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-MDX          0 secs          ███████████░░░░░░░░░░░░░░   44.17 %
-TypeScript   0 secs          ████████░░░░░░░░░░░░░░░░░   32.46 %
-Astro        0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+JavaScript   4 mins          ██████████████▓░░░░░░░░░░   58.54 %
+Vue.js       1 min           ██████░░░░░░░░░░░░░░░░░░░   24.53 %
+SCSS         0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
+MDX          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
