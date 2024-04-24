@@ -12,11 +12,11 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-Other            18 hrs 11 mins  ████████████████████████▓   98.67 %
+Other            18 hrs 9 mins   ████████████████████████▓   98.03 %
 Python           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Vue.js           6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 TOML             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-PHP              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
