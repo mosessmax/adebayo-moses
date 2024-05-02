@@ -12,9 +12,9 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-Other        27 hrs 13 mins  █████████████████████████   99.35 %
-Vue.js       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other        28 hrs 41 mins  █████████████████████████   99.51 %
+Vue.js       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
