@@ -12,9 +12,9 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   25 mins         ███████████████████████░░   92.24 %
-HTML         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+TypeScript   25 mins         ███████████████████████▒░   93.61 %
+JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+HTML         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
