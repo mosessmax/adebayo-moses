@@ -12,7 +12,9 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JSON         3 mins          █████████████████░░░░░░░░   67.94 %
+Git Config   1 min           █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
+JavaScript   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
 ```
 
 <!--END_SECTION:waka-->
