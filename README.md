@@ -12,9 +12,10 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         3 mins          ██████████████░░░░░░░░░░░   56.13 %
-JavaScript   1 min           ███████░░░░░░░░░░░░░░░░░░   27.34 %
-Git Config   1 min           ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
+JavaScript   1 hr 4 mins     ████████████████████▓░░░░   82.01 %
+Bash         8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+JSON         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
