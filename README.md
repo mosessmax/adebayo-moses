@@ -12,11 +12,11 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 hrs 55 mins   ██████████████▒░░░░░░░░░░   56.77 %
-Python       1 hr 35 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.12 %
-JSON         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-HTML         16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Docker       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+JavaScript   4 hrs 42 mins   ██████████▓░░░░░░░░░░░░░░   43.13 %
+Vue.js       1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+Python       1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
+JSON         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+TypeScript   42 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
 ```
 
 <!--END_SECTION:waka-->
