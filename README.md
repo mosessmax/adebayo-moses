@@ -12,11 +12,11 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-Astro            2 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   46.48 %
-Blade Template   42 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-CSS              40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-Bash             14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-JSON             11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Astro            2 hrs 2 mins    ███████▓░░░░░░░░░░░░░░░░░   30.71 %
+CSS              50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
+TypeScript       49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
+JavaScript       44 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
+Blade Template   42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
 ```
 
 <!--END_SECTION:waka-->
