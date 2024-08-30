@@ -12,11 +12,11 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    6 hrs 14 mins   █████████████▒░░░░░░░░░░░   53.79 %
-Vue.js        1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
-CSS           55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-JavaScript    53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-HTML          43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+TypeScript    8 hrs 26 mins   ███████████████▒░░░░░░░░░   60.77 %
+Vue.js        1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+JavaScript    1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+CSS           58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+HTML          46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
 ```
 
 <!--END_SECTION:waka-->
