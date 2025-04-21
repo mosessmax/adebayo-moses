@@ -12,7 +12,7 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 hrs 48 mins  ███████████████████████▓░   94.62 %
+TypeScript   15 hrs 47 mins  ███████████████████████▓░   94.62 %
 JavaScript   24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 Bash         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 YAML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
