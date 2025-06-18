@@ -12,10 +12,11 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         39 mins         █████████████████▒░░░░░░░   69.33 %
-CSS          8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.48 %
-TypeScript   8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+HTML         39 mins         ██████████████▓░░░░░░░░░░   58.99 %
+Python       9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
+CSS          8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
+TypeScript   8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
