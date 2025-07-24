@@ -12,11 +12,11 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 8 hrs 24 mins   ████████████████████▒░░░░   81.56 %
-Markdown                   49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
-Docker                     21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Nginx configuration file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-Bash                       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+TypeScript                 10 hrs 16 mins  █████████████████████▒░░░   85.51 %
+Markdown                   28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Docker                     21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
+JSON                       15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Nginx configuration file   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
