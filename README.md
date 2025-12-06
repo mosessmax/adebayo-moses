@@ -12,11 +12,11 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-Bash         2 hrs 33 mins   ██████████▓░░░░░░░░░░░░░░   43.31 %
-Python       1 hr 37 mins    ███████░░░░░░░░░░░░░░░░░░   27.42 %
-Other        32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
-Markdown     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Python       1 hr 56 mins    █████████░░░░░░░░░░░░░░░░   36.21 %
+Bash         1 hr 45 mins    ████████▒░░░░░░░░░░░░░░░░   32.88 %
+Other        32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+JavaScript   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
+Markdown     16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
 ```
 
 <!--END_SECTION:waka-->
