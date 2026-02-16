@@ -12,11 +12,11 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     2 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.54 %
-Markdown                   2 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
-TypeScript                 2 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-Bash                       2 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-JSON                       29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+Python       2 hrs 53 mins   ███████░░░░░░░░░░░░░░░░░░   27.95 %
+Bash         2 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.41 %
+Markdown     2 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   19.98 %
+TypeScript   1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
+Astro        54 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
 ```
 
 <!--END_SECTION:waka-->
