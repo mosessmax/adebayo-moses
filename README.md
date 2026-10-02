@@ -12,11 +12,11 @@ Check my written blogs
 <!--START_SECTION:waka-->
 
 ```txt
-Other        3 hrs 25 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
-Dart         2 hrs 42 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
-Python       1 hr 46 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-PHP          1 hr 35 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.15 %
-TypeScript   1 hr 6 mins           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Other        3 hrs 23 mins         ███████▓░░░░░░░░░░░░░░░░░   30.23 %
+PHP          1 hr 35 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+Dart         1 hr 26 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Python       1 hr 23 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+TypeScript   1 hr 6 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
 ```
 
 <!--END_SECTION:waka-->
